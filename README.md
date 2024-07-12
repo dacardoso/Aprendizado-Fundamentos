@@ -1,4 +1,4 @@
-# **Repositório de Estudos**
+# **Repositório de Estudo**
 
 ## **Descrição**
 Este repositório foi criado com o objetivo de armazenar e organizar os materiais de estudo que estou utilizando para dominar os conceitos fundamentais da tecnologia. 
