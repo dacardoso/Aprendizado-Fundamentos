@@ -14,4 +14,4 @@ Os conteúdos são apresentados de forma clara e acessível, facilitando o apren
 O objetivo deste repositório é criar um ambiente de aprendizado inclusivo e acessível. Este repositório será constantemente atualizado conforme eu for evoluindo nos aprendizados.
 
 **Licença**
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE.md](LICENSE) para mais detalhes.
